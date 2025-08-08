@@ -1,4 +1,4 @@
-package basic_coding;
+package basico;
 
 public class intnumbers {
     public static void main(String[] args) {

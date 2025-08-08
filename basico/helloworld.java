@@ -1,4 +1,4 @@
-package basic_coding;
+package basico;
 
 // cada linha de código deve estar dentro de uma 'class'
 //por exemplo, abaixo, a nossa class se chama main
